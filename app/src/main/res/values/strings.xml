@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Explore Athens</string>
+    <string name="spin_prompt">Choose a Cuisine</string>
+    <!--<string name="prompt">Please Select a Cuisine</string>-->
+    <string-array name="cuisines">
+        <!-- <item id="0">Please Choose a Cuisines</item> -->
+         <item id="1">American</item>
+         <item id="2">Chinese</item>
+         <item id="3">Mediterranean</item>
+         <item id="4">Mexican</item>
+         <item id="5">Thai</item>
+     </string-array>
+ </resources>
+
+
+
+

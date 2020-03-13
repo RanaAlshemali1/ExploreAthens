@@ -1,0 +1,2 @@
+In this app you can explore Athens via five different cuisines, American, Chinese, Mediterranean, Mexican, Thai.
+Please make a selection and view the cuisine's description or some restaurant suggestions.
