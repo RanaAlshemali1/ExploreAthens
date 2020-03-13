@@ -1,4 +1,4 @@
-# ExploreAthens
+# Android Application: Explore Athens with Fragments | Oct 2018
 An android application to help people explore the restaurant scene of Athens, Ga
 
 ## Description 
